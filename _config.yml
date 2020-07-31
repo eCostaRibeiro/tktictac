@@ -3,7 +3,7 @@ theme: jekyll-theme-midnight
 title: Aulas do Panda
 locale: Brasil
 description: repositório de aulas
-
+baseurl: "/tktictac"
 url: "https://tktictac.tk"
 
 owner:
