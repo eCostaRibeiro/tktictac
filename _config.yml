@@ -10,6 +10,8 @@ search.tokenizer_separator: /[\s/]+/
 search.rel_url: false
 search.button: true
 
+heading_anchors: true
+
 title: Aulas do Panda
 locale: Brasil
 description: repositório de aulas
@@ -20,3 +22,5 @@ owner:
   email: ecostaribeiro@outlook.com
 
 logo: "/assets/logoSquareA.png"
+
+footer_content: "conteúdo produzido exclusivamente para fins didáticos sob licença [GNU General Public License v3.0"](https://github.com/eCostaRibeiro/tktictac/blob/master/LICENSE)
