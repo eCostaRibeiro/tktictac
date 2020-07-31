@@ -1,22 +1,6 @@
 theme: jekyll-theme-midnight
 
-
 title: AulasRepo
 description: repositório de aulas
 
 url: "https://tktictac.tk"
-
-# Enable or disable heading anchors
-heading_anchors: true
-
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-
-nav_sort: case_insensitive
-
-
-
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
