@@ -1,1 +1,8 @@
 theme: jekyll-theme-midnight
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
