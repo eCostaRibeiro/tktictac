@@ -10,5 +10,5 @@ description: "página inicial"
 0123
 
 
-[aula 01](srcAula01.md)
-[teste](images/teste.md)
+[aula 01](docs/srcAula01.md)
+[teste](docs/images/teste.md)
