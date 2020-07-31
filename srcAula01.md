@@ -63,7 +63,7 @@ a meu ver as melodias em geral possuem três tipos de características:
 - escalar - *notas por passo, ou grau conjunto*
 - pontilista - *notas em diferentes registros*
 
-![parabéns pra vocês](/tktictac/img/image001.png "parabéns pra vocês")
+![parabéns pra vocês](/img/image001.png "parabéns pra vocês")
 
 [link no Musescore](https://musescore.com/user/114360/scores/6268086)
 
@@ -83,7 +83,7 @@ as melodias então são baseadas em notas definidas. chamamos as notas definidas
 >
 > 
 >
-> ![image-20200727013319842](img/image003.png "melodia em partitura") 
+> ![image-20200727013319842](/img/image003.png "melodia em partitura") 
 >
 > 
 >
