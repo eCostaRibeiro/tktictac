@@ -60,7 +60,7 @@ nav_order: 3
 
 # Fisiologia
 
-antigamente tínhamos uma teoria geral chamada [Teoria dos afetos](https://historiadamusica2011.blogspot.com/2011/07/teoria-dos-afetos-teoria-dos-afetos.html) onde haviam figuras retóricas para dar sentido musical em relação ao texto cantado nas melodias. hoje em dia ainda temos essas [regras atreladas à poesia]([https://blog.holistic-songwriting.com/2016/03/13/3-types-of-melodies-you-must-know-tech/#:~:text=Remember%20these%20key%20differences%3A,every%20one%20or%20two%20bars](https://blog.holistic-songwriting.com/2016/03/13/3-types-of-melodies-you-must-know-tech/#:~:text=Remember) 
+antigamente tínhamos uma teoria geral chamada [Teoria dos afetos](https://historiadamusica2011.blogspot.com/2011/07/teoria-dos-afetos-teoria-dos-afetos.html) onde haviam figuras retóricas para dar sentido musical em relação ao texto cantado nas melodias. hoje em dia ainda temos essas [regras atreladas à poesia](https://blog.holistic-songwriting.com/2016/03/13/3-types-of-melodies-you-must-know-tech/#:~:text=Remember) 
 
 a meu ver as melodias em geral possuem três tipos de características:
 
