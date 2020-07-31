@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aula01
+nav_order: 1
 ---
 
 # aula 01 - roteiro
