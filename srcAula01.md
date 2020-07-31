@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aula01
-permalink: srcAula01.md
+permalink: /srcAula01.md
 ---
 
 # aula 01 - roteiro
