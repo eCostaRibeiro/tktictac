@@ -63,7 +63,7 @@ a meu ver as melodias em geral possuem três tipos de características:
 - escalar - *notas por passo, ou grau conjunto*
 - pontilista - *notas em diferentes registros*
 
-![parabéns pra vocês](/img/image001.png "parabéns pra vocês")
+![parabéns pra vocês](/tktictac/img/image001.png "parabéns pra vocês")
 
 [link no Musescore](https://musescore.com/user/114360/scores/6268086)
 
