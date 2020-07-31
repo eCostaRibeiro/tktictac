@@ -1,6 +1,0 @@
----
-layout: default
-title: teste
----
-
-teste
