@@ -2,5 +2,6 @@ theme: jekyll-theme-midnight
 
 title: AulasRepo
 description: repositório de aulas
-
 url: "https://tktictac.tk"
+
+color_scheme: dark
