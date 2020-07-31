@@ -2,7 +2,7 @@ theme: jekyll-theme-midnight
 
 title: AulasRepo
 description: repositório de aulas
-#baseurl: /aulas
+baseurl: /aulas
 url: "https://tktictac.tk"
 
 aux_links:
