@@ -91,7 +91,7 @@ as melodias então são baseadas em notas definidas. chamamos as notas definidas
 >
 > 
 >
-> [canto gregoriano - YouTube](https://www.youtube.com/watch?v=n-2smpE2Lh0)
+> ([canto gregoriano - YouTube](https://www.youtube.com/watch?v=n-2smpE2Lh0))
 >
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/n-2smpE2Lh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -120,7 +120,7 @@ com isso começou então a organização entre vozes graves e agudas *cantus fir
 
 ![image-20200727015518330](images/image004.png "Greesleeves arranjo coral")
 
-​						fonte: [music-scores.com](https://www.music-scores.com/midi.php?sheetmusic=Trad_Greensleeves_SATB)
+​						fonte: ([music-scores.com](https://www.music-scores.com/midi.php?sheetmusic=Trad_Greensleeves_SATB))
 
 
 
