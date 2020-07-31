@@ -2,10 +2,17 @@ theme: jekyll-theme-midnight
 
 title: AulasRepo
 description: repositório de aulas
-baseurl: /aulas
+baseurl: /tktictak
 url: "https://tktictac.tk"
+
+# Enable or disable heading anchors
+heading_anchors: true
 
 aux_links:
   "Home":
     - "tktictac.tk/tktictak"
 aux_links_new_tab: false
+
+# Sort order for navigation links
+nav_sort: case_insensitive # default, equivalent to nil
+# nav_sort: case_sensitive # Capital letters sorted before lowercase
