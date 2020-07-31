@@ -3,7 +3,7 @@ theme: jekyll-theme-midnight
 
 title: AulasRepo
 description: repositório de aulas
-baseurl: "/tktictac" # the subpath of your site, e.g. /blog
+
 url: "https://tktictac.tk"
 
 # Enable or disable heading anchors
