@@ -1,7 +1,4 @@
----
-title: "Arquivos de aula"
-permalink: README.md
----
+
 
 *Arquivos de aulas*
 
