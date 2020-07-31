@@ -1,3 +1,3 @@
 *Arquivos de aulas*
 
-[Aula 01](/tktictac/srcAula01.md)
+[Aula 01](/srcAula01.md)
