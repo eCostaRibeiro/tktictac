@@ -1,7 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
+
 search_enabled: false
 
+logo: /assets/imgs/logo.png
 title: Aulas do Panda
 locale: Brasil
 description: repositório de aulas
