@@ -9,4 +9,4 @@ description: "página inicial"
 
 teste GIT
 
-[aula 01](tktictac/_posts/srcAula01.md)
+[aula 01](/_posts/srcAula01.md)
