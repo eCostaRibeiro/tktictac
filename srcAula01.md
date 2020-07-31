@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Aula01
 permalink: /tktictac/srcAula01
 ---
