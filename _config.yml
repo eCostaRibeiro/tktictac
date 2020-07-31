@@ -1,1 +1,10 @@
 theme: jekyll-theme-midnight
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
+
+nav_sort: case_insensitive
