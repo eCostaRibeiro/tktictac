@@ -7,8 +7,8 @@ description: "página inicial"
 
 *Arquivos das aulas*
 
-012
+0123
 
 
-[aula 01](_posts/srcAula01.md)
+[aula 01](srcAula01.md)
 [teste](images/teste.md)
