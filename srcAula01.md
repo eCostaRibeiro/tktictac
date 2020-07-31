@@ -1,6 +1,8 @@
+---
 layout: page
-title: "aula01"
-permalink: /https://github.com/eCostaRibeiro/tktictac/edit/master/aulas/aula01/srcAula01.md/
+title: "Aula01"
+permalink: /tktictac/
+---
 
 # aula 01 - roteiro
 
