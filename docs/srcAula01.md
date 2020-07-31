@@ -2,8 +2,7 @@
 layout: default
 title: Aula01
 parent: Conceitos
-has_toc: false
-nav_order: 3
+nav_order: 2
 ---
 
 
