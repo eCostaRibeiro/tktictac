@@ -7,6 +7,8 @@ description: "página inicial"
 
 *Arquivos das aulas*
 
-0
-[aula 01](https://github.com/eCostaRibeiro/tktictac/blob/master/_posts/srcAula01.md)
+012
+
+
+[aula 01](_posts/srcAula01.md)
 [teste](images/teste.md)
