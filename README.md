@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Arquivos de aula"
 permalink: README.md
 ---
