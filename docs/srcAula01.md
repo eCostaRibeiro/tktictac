@@ -6,7 +6,7 @@ has_children: false
 ---
 
 
-# aula 01 - roteiro
+# aula 01 - roteiro{: .text-center}
 
 
 
@@ -69,7 +69,7 @@ a meu ver as melodias em geral possuem três tipos de características:
 
 ![parabéns pra vocês](images/image001.png "parabéns pra vocês")
 
-[link Musescore](https://musescore.com/user/114360/scores/6268086){: .btn .btn-blue }
+[link Musescore](https://musescore.com/user/114360/scores/6268086){: .btn .btn-blue .text-center}
 
 <iframe width="100%" height="600" src="https://musescore.com/user/114360/scores/6268086/s/DtBd1A/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
 
