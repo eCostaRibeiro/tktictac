@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Aula01
 ---
 
@@ -65,7 +65,7 @@ a meu ver as melodias em geral possuem três tipos de características:
 - escalar - *notas por passo, ou grau conjunto*
 - pontilista - *notas em diferentes registros*
 
-![parabéns pra vocês](images/image001.png "parabéns pra vocês")
+![parabéns pra vocês](tktictac/images/image001.png "parabéns pra vocês")
 
 [link no Musescore](https://musescore.com/user/114360/scores/6268086)
 
@@ -81,11 +81,11 @@ as melodias então são baseadas em notas definidas. chamamos as notas definidas
 
 > #### tu es deus qui facis mirabilia a solus
 >
-> ![img](images/image002.png "melodia em neuma")
+> ![img](tktictac/images/image002.png "melodia em neuma")
 >
 > 
 >
-> ![image-20200727013319842](images/image003.png "melodia em partitura") 
+> ![image-20200727013319842](tktictac/images/image003.png "melodia em partitura") 
 >
 > 
 >
@@ -116,7 +116,7 @@ com isso começou então a organização entre vozes graves e agudas *cantus fir
 
 
 
-![image-20200727015518330](images/image004.png "Greesleeves arranjo coral")
+![image-20200727015518330](tktictac/images/image004.png "Greesleeves arranjo coral")
 
 ​						fonte: [music-scores.com](https://www.music-scores.com/midi.php?sheetmusic=Trad_Greensleeves_SATB)
 
