@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Aula01"
-permalink: /tktictac/
+permalink: "/tktictac/"
 ---
 
 # aula 01 - roteiro
