@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Aula01
-permalink: /srcAula01
 ---
 
 # aula 01 - roteiro
