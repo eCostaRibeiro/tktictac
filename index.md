@@ -2,4 +2,7 @@
 nav_order: 1
 ---
 
-# Repositório padrão das aulas
+![capa](/assets/capa.png)
+
+
+*rpositório padrão das aulas...*
