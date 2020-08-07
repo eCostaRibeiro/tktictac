@@ -75,7 +75,7 @@ pulso é movimento. ponto.
 | ***[Presto](https://pt.wikipedia.org/wiki/Presto)***         | 180-200                                                     | extremamente rápido                                          |
 | ***Prestissimo***                                            | 200 ou mais                                                 | Muito rapidamente, com toda a velocidade e presteza          |
 
-*fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Andamento)
+*fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Andamento)*
 
 > nisso entra o problema do metrônomo...
 >
