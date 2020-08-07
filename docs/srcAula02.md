@@ -8,7 +8,9 @@ has_children: false
 aula 02
 ====
 
+
 # {clave ≠ pulso ≠ andamento ≠ agógica} = paisagem
+
 
 seguindo o mesmo princípio da clave melódica, a clave rítmica vai nos ajudar a organizar ou agrupar os valores rítmicos o entendimento rítmico dentro da música.
 
@@ -17,6 +19,8 @@ seguindo o mesmo princípio da clave melódica, a clave rítmica vai nos ajudar 
 ![matrizes africanas](images/matrizes.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d2yDN-nN2k0?start=1117" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 #### o problema da ~~clave~~
 
@@ -28,11 +32,11 @@ a música ocidental eurocentrica está basicamente orientada pela Semibreve desd
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Fsys9kRedqI?start=1117" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 #### o que é clave?
 
 relação entre sons curtos e sons longos
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUIQlQdED7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -95,5 +99,3 @@ e de lição de casa:
 
 - [Mathematics of African Dance Rhythms](https://www.youtube.com/watch?v=2TgFp76Rnig&list=PLcWaQtyIPMFbUSduHCqk5yaNqS00VjzJI&index=2&t=5616s)
 - [Drum Rhythm Principles of Percussion Polyrhythm from Ghana](https://www.youtube.com/watch?v=yK42w0H8rSU&list=PLcWaQtyIPMFbUSduHCqk5yaNqS00VjzJI&index=2)
-- 
-
