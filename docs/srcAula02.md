@@ -97,6 +97,7 @@ agógica é uma dialética musical
 
 e de lição de casa:
 
+- [Tensão e Relaxamento](https://www.youtube.com/watch?v=quduI1DCPY4)
 - [Kiko Freitas falando da música africana](https://www.youtube.com/watch?v=lqz1-DwwsLE)
 - [Mathematics of African Dance Rhythms](https://www.youtube.com/watch?v=2TgFp76Rnig&list=PLcWaQtyIPMFbUSduHCqk5yaNqS00VjzJI&index=2&t=5616s)
 - [Drum Rhythm Principles of Percussion Polyrhythm from Ghana](https://www.youtube.com/watch?v=yK42w0H8rSU&list=PLcWaQtyIPMFbUSduHCqk5yaNqS00VjzJI&index=2)
