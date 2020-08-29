@@ -10,7 +10,7 @@ has_children: false
 
 ### comecemos...
 
-pela excelente explicação que o Marcelo Ferreira dá no sou [blog](https://parlatoriomusical.blogspot.com/2015/11/seculo-xiv-ars-nov-guillaume-de-machaut.html)
+pela excelente explicação que o Marcelo Ferreira dá no seu [blog](https://parlatoriomusical.blogspot.com/2015/11/seculo-xiv-ars-nov-guillaume-de-machaut.html)
 
 > Ao longo da *Ars Novæ* as medidas de duração das notas se tornaram cada vez mais definidas, assim como as indicações de métrica no início da pauta possibilitando várias combinações entre os valores das notas e os padrões métricos. O pulso básico girava em torno de 80 bpm no metrônomo moderno, mas eram reconhecidas velocidades alternativas como rápido, moderado e lento.
 >
@@ -46,6 +46,9 @@ pela excelente explicação que o Marcelo Ferreira dá no sou [blog](https://par
 
 ## Binário *vs* Ternário
 
+
+
+
 <iframe width="100%" height="394" src="https://musescore.com/user/114360/scores/6316995/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
 <span><a href="https://musescore.com/user/114360/scores/6316995/s/OQNUzL" target="_blank">prolatio</a> by <a href="https://musescore.com/user/114360">PandaCosta</a></span>
 
@@ -59,7 +62,8 @@ pela excelente explicação que o Marcelo Ferreira dá no sou [blog](https://par
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZlpNvPuPuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Link no [YouTube](https://www.youtube.com/watch?v=wZlpNvPuPuM)
+
+
 
 
 
