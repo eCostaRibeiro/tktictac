@@ -5,7 +5,6 @@ parent: Conceitos
 has_children: false
 ---
 
-
 # Figurações
 
 ## o que é?
@@ -26,13 +25,38 @@ segundo o Grove
 
 ![BWV 772a](images/figuracao001.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eVkNc3LSgOo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 ![BWV772b](images/figuracao002.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vg4ytXm1Tbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> partitura e gravação das 15 invenções:
+>
+> [Partitura IMSLP](http://ks4.imslp.info/files/imglnks/usimg/f/fb/IMSLP467846-PMLP3267-15_Inventio_Manoscritto.pdf)
+>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/sdaCRiSqfjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![BWV 848](images/figuracao003.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d_DFyOgtCzw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ![BWV 1067a](images/figuracao004.png)
 
 ![BWV 1067b](images/figuracao004b.png)
 
+> Partitura e gravação Suíte Orquestral No.2:
+>
+> [paritura IMSLP](https://imslp.simssa.ca/files/imglnks/usimg/4/48/IMSLP16317-Bach_-_Orchestral_Suite_No.2_Dover.pdf)
+>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/x8Rv9ppP6A8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![BWV 998](images/figuracao005.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6NaUsWK0es" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
