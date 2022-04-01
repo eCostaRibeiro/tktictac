@@ -26,3 +26,4 @@ logo: "/assets/logo.png"
 back_to_top: true
 back_to_top_text: "Back to top"
 footer_content: "conteúdo produzido exclusivamente para fins didáticos sob licença GNU General Public License v3.0"
+theme: jekyll-theme-midnight
